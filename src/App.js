@@ -7,23 +7,24 @@ function App() {
 
   const userData = [
     {
-      name: "Henry Anderson",
+      name: "Henry Anderson & Co.",
       bio: "Petrochemical Engineer",
       dateOfBirth: "1969-11-01",
-      image: "https://res.cloudinary.com/dehmubz6g/image/upload/v1716827056/Paul-images/kcyxnvbattpxxqx2gs0g.jpg",
+      image: "https://matias-tailwind-rho.vercel.app/assets/img/blog/bblog1.png",
     },
+    
     {
-      name: "Paul Nwakalor",
-      bio: "A Businessman",
+      name: "Matias Cooper ",
+      bio: "A Data Analyst",
       dateOfBirth: "1979-03-12",
-      image: "https://res.cloudinary.com/dehmubz6g/image/upload/v1716827056/Paul-images/kcyxnvbattpxxqx2gs0g.jpg",
+      image: "https://matias-tailwind-rho.vercel.app/assets/img/testimonial/man1.png",
     },
 
     {
       name: "Unai Emry",
       bio: "A Football Manager",
       dateOfBirth: "1964-07-20",
-      image: "https://res.cloudinary.com/dehmubz6g/image/upload/v1716827056/Paul-images/kcyxnvbattpxxqx2gs0g.jpg",
+      image: "https://matias-tailwind-rho.vercel.app/assets/img/testimonial/man3.png",
     }
   ];
 
